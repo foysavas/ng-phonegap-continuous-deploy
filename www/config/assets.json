@@ -1,0 +1,14 @@
+{
+  "js": [
+    { "src": "config/app.js" },
+    { "src": "config/http.js" },
+    { "src": "config/routes.js" }
+  ],
+  "css": [
+    { "href": "css/reset.css"}
+  ],
+  "files": [
+    { "src": "app/views/example.html" },
+    { "src": "img/example.png" }
+  ]
+}
